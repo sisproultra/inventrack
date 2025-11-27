@@ -1,0 +1,5 @@
+{
+  "name": "SmartRack WMS",
+  "description": "A warehouse management system for food storage, featuring LPN generation, label printing, and a visual interactive rack layout to manage inventory reception and dispatch.",
+  "requestFramePermissions": []
+}
